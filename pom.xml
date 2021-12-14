@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pl.kacper</groupId>
-    <artifactId>hotels_application</artifactId>
+    <artifactId>hotelsApplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hotels_application</name>
-    <description>hotels_application</description>
+    <name>hotelsApplication</name>
+    <description>hotelsApplication</description>
     <properties>
         <java.version>11</java.version>
     </properties>
